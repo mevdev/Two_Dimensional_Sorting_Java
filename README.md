@@ -1,9 +1,8 @@
 # Two_Dimensional_Sorting_Java
 Sorting an ArrayList of objects by bool and name
 
-# Runs in Java 1.8.
-
-# Works great in Android
+##### Runs in Java 1.8.
+##### Works great in Android
 
 To compile:
 
